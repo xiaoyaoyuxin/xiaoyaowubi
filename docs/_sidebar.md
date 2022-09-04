@@ -1,5 +1,8 @@
 <!-- docs/_sidebar.md -->
 
-* [Home](/)
-* [Changelog](changelog.md "The greatest guide in the world")
-
+* [首页](README)
+* [基础教程](基础教程)
+* [三重简码](三重简码)
+* [命令直通车](命令直通车)
+* [快捷符号输入](快捷符号输入) 
+* [符号编码](符号编码) 
